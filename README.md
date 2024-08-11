@@ -33,5 +33,5 @@ This project demonstrates the effectiveness of content-based filtering technique
 There is also a file attached in the repository where the recommendation system is deployed using Streamlit, allowing users to interact with the system through a web interface.
 
 ---
-
+![Sample](https://github.com/rdcodings/Netflix-Movie-and-Series-Recommendation-System/blob/4b2594f3afe80616c54098e364014ff79e7f2ade/sample.JPG)
 Author - *Rajarshi Das*
